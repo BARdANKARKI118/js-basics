@@ -1,0 +1,12 @@
+#placement{
+    text-align: center;
+    justify-content: center;
+    padding: 30px 40px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.buttons:hover{
+    height: 50px;
+    width: 100px;
+}

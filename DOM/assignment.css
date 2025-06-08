@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+
+}
+
+#placement{
+    margin: auto;
+    margin-top: 200px;
+    width: 300px;
+    box-shadow: 10px 20px 30px ;
+    
+}
+
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+#btncontainer{
+    text-align: center;
+}
+
+#increasebtn{
+    padding: 10px 20px;
+    font-size: 20px;
+     background-color: rgb(0, 251, 255);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+#increasebtn:hover{
+    background-color: rgb(31, 145, 145);
+}
+
+#decreasebtn{
+    padding: 10px 20px;
+    font-size: 20px;
+     background-color: rgba(212, 1, 1, 0.785);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+#decreasebtn:hover{
+    background-color:rgba(33, 2, 2, 0.249) ;
+}
+
